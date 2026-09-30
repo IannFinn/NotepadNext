@@ -10,7 +10,7 @@ function UpdateTheme()
     if dark_mode then
         theme = {
             default_fg = rgb(0xD4D4D4),
-            default_bg = rgb(0x1E1E1E),
+            default_bg = rgb(0x3F3F3F),
             light_fg   = rgb(0x000000),
             light_bg   = rgb(0xFFFFFF),
         }

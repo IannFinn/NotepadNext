@@ -18,50 +18,50 @@ L.keywords = {
 L.styles = {
 	["DEFAULT"] = {
 		id = 0,
-		fgColor = rgb(0x808080),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xDCDCCC),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["IDENTIFIERS"] = {
 		id = 1,
-		fgColor = rgb(0x000000),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xFFEBDD),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["KEYWORD"] = {
 		id = 2,
-		fgColor = rgb(0x00007F),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xEFEF8F),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["KEYWORD2"] = {
 		id = 3,
-		fgColor = rgb(0x00007F),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xCEDF99),
+		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["KEYWORD3"] = {
 		id = 4,
-		fgColor = rgb(0x0040E0),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["NUMBER"] = {
 		id = 5,
-		fgColor = rgb(0x007F7F),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0x8CD0D3),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["OPERATORS (DELIMITERS)"] = {
 		id = 6,
-		fgColor = rgb(0x000000),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0x9F9D6D),
+		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["VALUE"] = {
 		id = 7,
-		fgColor = rgb(0x7F007F),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0xFFCFAF),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENT"] = {
 		id = 8,
-		fgColor = rgb(0x007F00),
-		bgColor = rgb(0xFFFFFF),
+		fgColor = rgb(0x7F9F7F),
+		bgColor = rgb(0x3F3F3F),
 	},
 }
 return L

@@ -206,7 +206,7 @@ ViewStyle::ViewStyle(size_t stylesSize_) :
 	styles[StyleLineNumber].fore = black;
 	styles[StyleLineNumber].back = Platform::Chrome();
 
-	elementBaseColours[Element::Caret] = black;
+	elementBaseColours[Element::Caret] = white;
 	elementBaseColours[Element::CaretAdditional] = ColourRGBA::Grey(half);
 	elementAllowsTranslucent.insert({
 		Element::Caret,
