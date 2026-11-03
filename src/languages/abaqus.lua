@@ -39,17 +39,17 @@ L.styles = {
 	},
 	["PROCESSORS"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xEFEF8F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["STARCOMMAND"] = {
 		id = 10,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["ARGUMENT"] = {
 		id = 11,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 	},
 }

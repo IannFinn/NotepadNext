@@ -29,7 +29,7 @@ L.styles = {
 	},
 	["TAGNAME"] = {
 		id = 2,
-		fgColor = rgb(0xFFCFAF),
+		fgColor = rgb(0xDCDCCC),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["INSTRUCTION WORD"] = {

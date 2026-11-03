@@ -35,8 +35,8 @@ L.styles = {
 	},
 	["UNKNOWN_PSEUDOCLASS"] = {
 		id = 4,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xCEDF99),
+		bgColor = rgb(0xFF0000),
 	},
 	["OPERATOR"] = {
 		id = 5,

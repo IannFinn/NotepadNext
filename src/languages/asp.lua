@@ -20,7 +20,7 @@ L.styles = {
 	},
 	["COMMENTLINE"] = {
 		id = 82,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["NUMBER"] = {
@@ -46,13 +46,13 @@ L.styles = {
 	},
 	["ASPSYMBOL"] = {
 		id = 15,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xDFC47D),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["SCRIPTTYPE"] = {
 		id = 16,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xDFDFDF),
 		bgColor = rgb(0x3F3F3F),
 	},
 }

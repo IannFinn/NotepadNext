@@ -33,13 +33,13 @@ L.styles = {
 	},
 	["INSTRUCTION WORD"] = {
 		id = 12,
-		fgColor = rgb(0xDFC47D),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["TYPE WORD"] = {
 		id = 13,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0x9F9D6D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["NUMBER"] = {

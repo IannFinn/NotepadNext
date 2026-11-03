@@ -31,7 +31,7 @@ L.styles = {
 	},
 	["COMMENT LIne"] = {
 		id = 2,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENT LINE BANG"] = {

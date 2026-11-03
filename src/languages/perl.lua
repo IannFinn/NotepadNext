@@ -21,7 +21,7 @@ L.keywords = {
 L.styles = {
 	["PREPROCESSOR"] = {
 		id = 9,
-		fgColor = rgb(0xFFCFAF),
+		fgColor = rgb(0xCEDF99),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["DEFAULT"] = {
@@ -42,12 +42,12 @@ L.styles = {
 	},
 	["STRING"] = {
 		id = 6,
-		fgColor = rgb(0xC89191),
+		fgColor = rgb(0xDCA3A3),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["CHARACTER"] = {
 		id = 7,
-		fgColor = rgb(0xDCA3A3),
+		fgColor = rgb(0x9F9D6D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["OPERATOR"] = {
@@ -58,7 +58,7 @@ L.styles = {
 	},
 	["REGEX"] = {
 		id = 17,
-		fgColor = rgb(0xC89191),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENT LINE"] = {
@@ -89,7 +89,7 @@ L.styles = {
 	},
 	["PUNCTUATION"] = {
 		id = 8,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["POD"] = {
@@ -105,7 +105,7 @@ L.styles = {
 	},
 	["LONGQUOTE"] = {
 		id = 19,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x9F9D6D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["DATASECTION"] = {

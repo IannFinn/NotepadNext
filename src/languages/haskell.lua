@@ -84,22 +84,22 @@ L.styles = {
 	},
 	["COMMENTLINE"] = {
 		id = 13,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENTBLOCK"] = {
 		id = 14,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENTBLOCK2"] = {
 		id = 15,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENTBLOCK3"] = {
 		id = 16,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 }

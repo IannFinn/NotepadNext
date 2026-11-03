@@ -15,7 +15,7 @@ L.keywords = {
 L.styles = {
 	["WHITE SPACE"] = {
 		id = 0,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x8CD0D3),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENT"] = {
@@ -35,46 +35,46 @@ L.styles = {
 	},
 	["SINGLE QUOTED STRING"] = {
 		id = 4,
-		fgColor = rgb(0xCC9393),
+		fgColor = rgb(0xDFC47D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["KEYWORD"] = {
 		id = 5,
-		fgColor = rgb(0xDFC47D),
+		fgColor = rgb(0xDCDCCC),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["TRIPLE QUOTES"] = {
 		id = 6,
-		fgColor = rgb(0xCC9393),
+		fgColor = rgb(0xFFCFAF),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["TRIPLE DOUBLE QUOTES"] = {
 		id = 7,
-		fgColor = rgb(0xCC9393),
+		fgColor = rgb(0xFFCFAF),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["CLASS NAME DEFINITION"] = {
 		id = 8,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0xDCA3A3),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["FUNCTION OR METHOD NAME DEFINITION"] = {
 		id = 9,
-		fgColor = rgb(0x93E0E3),
+		fgColor = rgb(0xEFEF8F),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["OPERATORS"] = {
 		id = 10,
-		fgColor = rgb(0x9F9D6D),
+		fgColor = rgb(0xDCA3A3),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["IDENTIFIERS"] = {
 		id = 11,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xEFEF8F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["COMMENT-BLOCKS"] = {
@@ -84,12 +84,12 @@ L.styles = {
 	},
 	["END OF LINE WHERE STRING IS NOT CLOSED"] = {
 		id = 13,
-		fgColor = rgb(0x000000),
-		bgColor = rgb(0xE0C0E0),
+		fgColor = rgb(0xDFC47D),
+		bgColor = rgb(0x3F3F3F),
 	},
 	["HIGHLIGHTED IDENTIFIERS"] = {
 		id = 14,
-		fgColor = rgb(0xE3CEAB),
+		fgColor = rgb(0xEFEF8F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["DECORATORS"] = {

@@ -40,13 +40,13 @@ L.styles = {
 	},
 	["DOUBLESTRING"] = {
 		id = 6,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["SINGLESTRING"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
@@ -57,12 +57,12 @@ L.styles = {
 	},
 	["TAGEND"] = {
 		id = 11,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xE3CEAB),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["TAGUNKNOWN"] = {
 		id = 2,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xE3CEAB),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["ATTRIBUTE"] = {
@@ -72,7 +72,7 @@ L.styles = {
 	},
 	["ATTRIBUTEUNKNOWN"] = {
 		id = 4,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xDFDFDF),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["CDATA"] = {
@@ -93,32 +93,32 @@ L.styles = {
 	},
 	["SGML_DEFAULT"] = {
 		id = 21,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x272727),
 		fontStyle = 1,
 	},
 	["SGML_COMMAND"] = {
 		id = 22,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x272727),
 		fontStyle = 1,
 	},
 	["SGML_PARAM"] = {
 		id = 23,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x272727),
 		fontStyle = 1,
 	},
 	["SGML_DOUBLESTRING"] = {
 		id = 24,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xCC9393),
+		bgColor = rgb(0x272727),
 		fontStyle = 1,
 	},
 	["SGML_COMMENT"] = {
 		id = 29,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x272727),
 		fontStyle = 1,
 	},
 }

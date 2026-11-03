@@ -92,12 +92,12 @@ L.styles = {
 	},
 	["TYPE"] = {
 		id = 14,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0x8CD0D3),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["FUNCTION"] = {
 		id = 15,
-		fgColor = rgb(0xEFEF8F),
+		fgColor = rgb(0x8CD0D3),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["STATIC BUILT-IN OBJECT"] = {

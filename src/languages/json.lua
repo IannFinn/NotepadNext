@@ -43,7 +43,7 @@ L.styles = {
 	},
 	["PROPERTYNAME"] = {
 		id = 4,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCEDF99),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["ESCAPESEQUENCE"] = {
@@ -54,12 +54,12 @@ L.styles = {
 	},
 	["LINECOMMENT"] = {
 		id = 6,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["BLOCKCOMMENT"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["OPERATOR"] = {
@@ -74,7 +74,7 @@ L.styles = {
 	},
 	["COMPACTIRI"] = {
 		id = 10,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xFFCFAF),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
@@ -86,7 +86,7 @@ L.styles = {
 	},
 	["LDKEYWORD"] = {
 		id = 12,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x9F9D6D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["ERROR"] = {

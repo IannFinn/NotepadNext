@@ -35,7 +35,7 @@ L.styles = {
 	},
 	["COMMENTLINE"] = {
 		id = 1,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["NUMBER"] = {
@@ -72,7 +72,7 @@ L.styles = {
 	},
 	["TRIPLEDOUBLE"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["CLASSNAME"] = {
@@ -99,7 +99,7 @@ L.styles = {
 	},
 	["COMMENTBLOCK"] = {
 		id = 12,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["DECORATOR"] = {

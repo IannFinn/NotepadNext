@@ -70,13 +70,13 @@ L.styles = {
 	},
 	["DOUBLESTRING"] = {
 		id = 6,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["SINGLESTRING"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
@@ -87,12 +87,12 @@ L.styles = {
 	},
 	["TAGEND"] = {
 		id = 11,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0x7F9F7F),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["TAGUNKNOWN"] = {
 		id = 2,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xE3CEAB),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["ATTRIBUTE"] = {
@@ -102,13 +102,13 @@ L.styles = {
 	},
 	["ATTRIBUTEUNKNOWN"] = {
 		id = 4,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xBEC89E),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["SGMLDEFAULT"] = {
 		id = 21,
-		fgColor = rgb(0xDCDCCC),
-		bgColor = rgb(0x3F3F3F),
+		fgColor = rgb(0xE3CEAB),
+		bgColor = rgb(0x272727),
 	},
 	["CDATA"] = {
 		id = 17,

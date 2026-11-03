@@ -25,23 +25,23 @@ L.styles = {
 	},
 	["TAG"] = {
 		id = 1,
-		fgColor = rgb(0xE3CEAB),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["CLASS"] = {
 		id = 2,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["PSEUDOCLASS"] = {
 		id = 3,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0xFFCFAF),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["UNKNOWN_PSEUDOCLASS"] = {
 		id = 4,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xDFC47D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["OPERATOR"] = {
@@ -52,13 +52,13 @@ L.styles = {
 	},
 	["IDENTIFIER"] = {
 		id = 6,
-		fgColor = rgb(0xFFFFFF),
-		bgColor = rgb(0x2A2A2A),
+		fgColor = rgb(0xEFEF8F),
+		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["UNKNOWN_IDENTIFIER"] = {
 		id = 7,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xDFC47D),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["VALUE"] = {
@@ -74,19 +74,19 @@ L.styles = {
 	},
 	["ID"] = {
 		id = 10,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0xC89191),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["IMPORTANT"] = {
 		id = 11,
-		fgColor = rgb(0xBFCAA9),
-		bgColor = rgb(0x274E27),
+		fgColor = rgb(0xEFEF8F),
+		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
 	["DIRECTIVE"] = {
 		id = 12,
-		fgColor = rgb(0xCEDF99),
+		fgColor = rgb(0xCC9393),
 		bgColor = rgb(0x3F3F3F),
 	},
 }

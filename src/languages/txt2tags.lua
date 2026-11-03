@@ -88,12 +88,12 @@ L.styles = {
 	},
 	["ULIST"] = {
 		id = 13,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCEDF99),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["OLIST"] = {
 		id = 14,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCEDF99),
 		bgColor = rgb(0x3F3F3F),
 	},
 	["BLOCKQUOTE"] = {

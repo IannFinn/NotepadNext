@@ -125,7 +125,7 @@ L.styles = {
 	},
 	["TASK MARKER"] = {
 		id = 26,
-		fgColor = rgb(0xDCDCCC),
+		fgColor = rgb(0xCEDF99),
 		bgColor = rgb(0x3F3F3F),
 		fontStyle = 1,
 	},
