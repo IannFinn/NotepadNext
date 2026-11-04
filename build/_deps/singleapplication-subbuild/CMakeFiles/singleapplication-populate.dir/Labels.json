@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/singleapplication-populate"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/singleapplication-populate.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/singleapplication-populate-complete.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-build.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-configure.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-download.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-install.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-patch.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-test.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/singleapplication-populate-prefix/src/singleapplication-populate-stamp/singleapplication-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"singleapplication-populate"
+		],
+		"name" : "singleapplication-populate"
+	}
+}

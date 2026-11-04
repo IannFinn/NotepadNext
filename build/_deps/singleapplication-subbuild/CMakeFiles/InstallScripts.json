@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/singleapplication-populate.dir
+/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/edit_cache.dir
+/home/captn/NotepadNext/build/_deps/singleapplication-subbuild/CMakeFiles/rebuild_cache.dir

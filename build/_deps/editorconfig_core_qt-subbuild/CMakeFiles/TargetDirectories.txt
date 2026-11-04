@@ -1,0 +1,3 @@
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/editorconfig_core_qt-populate.dir
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/edit_cache.dir
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/rebuild_cache.dir

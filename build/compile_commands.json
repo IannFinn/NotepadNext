@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/qtadvanceddocking-qt6_autogen/mocs_compilation.cpp.o -c /home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/mocs_compilation.cpp",
+  "file": "/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/mocs_compilation.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/qtadvanceddocking-qt6_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/linux/FloatingWidgetTitleBar.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/linux/FloatingWidgetTitleBar.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/linux/FloatingWidgetTitleBar.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/linux/FloatingWidgetTitleBar.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/ads_globals.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ads_globals.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ads_globals.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/ads_globals.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaTabBar.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaTabBar.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaTabBar.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaTabBar.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaTitleBar.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaTitleBar.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaTitleBar.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaTitleBar.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaWidget.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaWidget.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockAreaWidget.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockAreaWidget.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockContainerWidget.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockContainerWidget.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockContainerWidget.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockContainerWidget.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockManager.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockManager.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockManager.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockManager.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockOverlay.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockOverlay.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockOverlay.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockOverlay.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockSplitter.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockSplitter.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockSplitter.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockSplitter.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockWidget.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockWidget.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockWidget.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockWidget.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockWidgetTab.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockWidgetTab.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockWidgetTab.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockWidgetTab.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockingStateReader.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockingStateReader.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockingStateReader.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockingStateReader.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockFocusController.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockFocusController.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockFocusController.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockFocusController.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/ElidingLabel.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ElidingLabel.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ElidingLabel.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/ElidingLabel.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/FloatingDockContainer.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/FloatingDockContainer.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/FloatingDockContainer.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/FloatingDockContainer.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/FloatingDragPreview.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/FloatingDragPreview.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/FloatingDragPreview.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/FloatingDragPreview.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/IconProvider.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/IconProvider.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/IconProvider.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/IconProvider.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/DockComponentsFactory.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockComponentsFactory.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/DockComponentsFactory.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/DockComponentsFactory.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideSideBar.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideSideBar.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideSideBar.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideSideBar.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideTab.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideTab.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideTab.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideTab.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideDockContainer.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideDockContainer.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/AutoHideDockContainer.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/AutoHideDockContainer.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/PushButton.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/PushButton.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/PushButton.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/PushButton.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/ResizeHandle.cpp.o -c /home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ResizeHandle.cpp",
+  "file": "/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src/ResizeHandle.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/ResizeHandle.cpp.o"
+},
+{
+  "directory": "/home/captn/NotepadNext/build/_deps/ads-build/src",
+  "command": "/usr/bin/c++ -DADS_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSCI_OWNREGEX -I/home/captn/NotepadNext/build/_deps/ads-build/src -I/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src -I/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui/6.11.2 -isystem /usr/include/qt6/QtGui/6.11.2/QtGui -isystem /usr/include/qt6/QtCore/6.11.2 -isystem /usr/include/qt6/QtCore/6.11.2/QtCore -std=c++17 -fstack-protector-strong -D_FORTIFY_SOURCE=2 -mno-direct-extern-access -o CMakeFiles/qtadvanceddocking-qt6.dir/qtadvanceddocking-qt6_autogen/EWIEGA46WW/qrc_ads.cpp.o -c /home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/EWIEGA46WW/qrc_ads.cpp",
+  "file": "/home/captn/NotepadNext/build/_deps/ads-build/src/qtadvanceddocking-qt6_autogen/EWIEGA46WW/qrc_ads.cpp",
+  "output": "_deps/ads-build/src/CMakeFiles/qtadvanceddocking-qt6.dir/qtadvanceddocking-qt6_autogen/EWIEGA46WW/qrc_ads.cpp.o"
+}
+]

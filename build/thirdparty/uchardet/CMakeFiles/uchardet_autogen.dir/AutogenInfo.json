@@ -1,0 +1,434 @@
+{
+	"BUILD_DIR" : "/home/captn/NotepadNext/build/thirdparty/uchardet/uchardet_autogen",
+	"CMAKE_BINARY_DIR" : "/home/captn/NotepadNext/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/captn/NotepadNext/build/thirdparty/uchardet",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/captn/NotepadNext/thirdparty/uchardet",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/captn/NotepadNext/thirdparty/uchardet/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/captn/NotepadNext",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/captn/NotepadNext/build/thirdparty/uchardet/uchardet_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "uchardet_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/CharDistribution.h",
+			"MU",
+			"UVLADIE3JM/moc_CharDistribution.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/JpCntx.h",
+			"MU",
+			"UVLADIE3JM/moc_JpCntx.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsBig5Prober.h",
+			"MU",
+			"UVLADIE3JM/moc_nsBig5Prober.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsCharSetProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsCharSetProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCJPProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsEUCJPProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCKRProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsEUCKRProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCTWProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsEUCTWProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEscCharsetProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsEscCharsetProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsGB2312Prober.h",
+			"MU",
+			"UVLADIE3JM/moc_nsGB2312Prober.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsHebrewProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsHebrewProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsLatin1Prober.h",
+			"MU",
+			"UVLADIE3JM/moc_nsLatin1Prober.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsMBCSGroupProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsMBCSGroupProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSBCSGroupProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsSBCSGroupProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSBCharSetProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsSBCharSetProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSJISProber.h",
+			"MU",
+			"UVLADIE3JM/moc_nsSJISProber.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsUTF8Prober.h",
+			"MU",
+			"UVLADIE3JM/moc_nsUTF8Prober.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsUniversalDetector.h",
+			"MU",
+			"UVLADIE3JM/moc_nsUniversalDetector.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/uchardet.h",
+			"MU",
+			"UVLADIE3JM/moc_uchardet.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/captn/NotepadNext/build/thirdparty/uchardet/uchardet_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/captn/NotepadNext/build/thirdparty/uchardet/uchardet_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "SCI_OWNREGEX" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/captn/NotepadNext/thirdparty/uchardet/src",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-pc-linux-gnu",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/16/include",
+		"/usr/local/include",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/captn/NotepadNext/build/thirdparty/uchardet/uchardet_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/home/captn/NotepadNext/build/thirdparty/uchardet/CMakeFiles/uchardet_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "/home/captn/NotepadNext/build/thirdparty/uchardet/CMakeFiles/uchardet_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/CharDistribution.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/JpCntx.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangArabicModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangBulgarianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangCroatianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangCzechModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangDanishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangEsperantoModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangEstonianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangFinnishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangFrenchModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangGermanModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangGreekModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangHebrewModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangHungarianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangIrishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangItalianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangLatvianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangLithuanianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangMalteseModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangNorwegianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangPolishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangPortugueseModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangRomanianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangRussianModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangSlovakModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangSloveneModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangSpanishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangSwedishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangThaiModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangTurkishModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/LangModels/LangVietnameseModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsBig5Prober.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsCharSetProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCJPProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCKRProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCTWProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEscCharsetProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsEscSM.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsGB2312Prober.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsHebrewProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsLatin1Prober.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsMBCSGroupProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsMBCSSM.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSBCSGroupProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSBCharSetProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsSJISProber.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsUTF8Prober.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/nsUniversalDetector.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/uchardet/src/uchardet.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

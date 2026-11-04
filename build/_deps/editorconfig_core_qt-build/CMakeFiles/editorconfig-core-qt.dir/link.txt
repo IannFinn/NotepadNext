@@ -1,0 +1,2 @@
+/usr/bin/ar qc libeditorconfig-core-qt.a "CMakeFiles/editorconfig-core-qt.dir/editorconfig-core-qt_autogen/mocs_compilation.cpp.o" "CMakeFiles/editorconfig-core-qt.dir/EditorConfig.cpp.o"
+/usr/bin/ranlib libeditorconfig-core-qt.a

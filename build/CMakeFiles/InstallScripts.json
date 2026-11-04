@@ -1,0 +1,19 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/captn/NotepadNext/build/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/thirdparty/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/ads-build/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/ads-build/src/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/tutorial/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/singleapplication-build/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-build/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/thirdparty/lua/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/thirdparty/scintilla/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/thirdparty/lexilla/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/thirdparty/uchardet/cmake_install.cmake",
+		"/home/captn/NotepadNext/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

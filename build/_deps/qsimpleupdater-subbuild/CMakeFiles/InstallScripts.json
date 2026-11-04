@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

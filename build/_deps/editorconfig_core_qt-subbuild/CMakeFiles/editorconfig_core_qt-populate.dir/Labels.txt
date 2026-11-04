@@ -1,0 +1,14 @@
+# Target labels
+ editorconfig_core_qt-populate
+# Source files and their labels
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/editorconfig_core_qt-populate
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/editorconfig_core_qt-populate.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/CMakeFiles/editorconfig_core_qt-populate-complete.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-build.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-configure.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-download.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-install.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-mkdir.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-patch.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-test.rule
+/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/editorconfig_core_qt-populate-update.rule

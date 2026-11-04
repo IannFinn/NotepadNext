@@ -42,17 +42,8 @@ target_wrapper.*
 *.qmlproject.user
 *.qmlproject.user.*
 
-# QtCtreator CMake
-CMakeLists.txt.user*
-CMakeCache.
-cmake_install.cmake
-Makefile
-__cmake_systeminformation
-
 *.pyc
 
-/build
-/build*
 /icon/*.png
 /icon/ImageMagick
 
@@ -66,8 +57,3 @@ __cmake_systeminformation
 
 .cpm-cache/
 
-# ninja
-.ninja_deps
-.ninja_lock
-.ninja_log
-build.ninja

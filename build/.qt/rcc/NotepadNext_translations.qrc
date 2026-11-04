@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="NotepadNext_cs.qm">/home/captn/NotepadNext/build/src/NotepadNext_cs.qm</file>
+    <file alias="NotepadNext_de.qm">/home/captn/NotepadNext/build/src/NotepadNext_de.qm</file>
+    <file alias="NotepadNext_en.qm">/home/captn/NotepadNext/build/src/NotepadNext_en.qm</file>
+    <file alias="NotepadNext_es.qm">/home/captn/NotepadNext/build/src/NotepadNext_es.qm</file>
+    <file alias="NotepadNext_fr.qm">/home/captn/NotepadNext/build/src/NotepadNext_fr.qm</file>
+    <file alias="NotepadNext_it.qm">/home/captn/NotepadNext/build/src/NotepadNext_it.qm</file>
+    <file alias="NotepadNext_nl.qm">/home/captn/NotepadNext/build/src/NotepadNext_nl.qm</file>
+    <file alias="NotepadNext_pl.qm">/home/captn/NotepadNext/build/src/NotepadNext_pl.qm</file>
+    <file alias="NotepadNext_pt_BR.qm">/home/captn/NotepadNext/build/src/NotepadNext_pt_BR.qm</file>
+    <file alias="NotepadNext_pt_PT.qm">/home/captn/NotepadNext/build/src/NotepadNext_pt_PT.qm</file>
+    <file alias="NotepadNext_ru.qm">/home/captn/NotepadNext/build/src/NotepadNext_ru.qm</file>
+    <file alias="NotepadNext_sv.qm">/home/captn/NotepadNext/build/src/NotepadNext_sv.qm</file>
+    <file alias="NotepadNext_tr.qm">/home/captn/NotepadNext/build/src/NotepadNext_tr.qm</file>
+    <file alias="NotepadNext_uk.qm">/home/captn/NotepadNext/build/src/NotepadNext_uk.qm</file>
+    <file alias="NotepadNext_zh.qm">/home/captn/NotepadNext/build/src/NotepadNext_zh.qm</file>
+    <file alias="NotepadNext_zh_CN.qm">/home/captn/NotepadNext/build/src/NotepadNext_zh_CN.qm</file>
+    <file alias="NotepadNext_zh_TW.qm">/home/captn/NotepadNext/build/src/NotepadNext_zh_TW.qm</file>
+  </qresource>
+</RCC>
+

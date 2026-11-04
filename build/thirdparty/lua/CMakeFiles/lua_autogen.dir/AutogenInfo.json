@@ -1,0 +1,276 @@
+{
+	"BUILD_DIR" : "/home/captn/NotepadNext/build/thirdparty/lua/lua_autogen",
+	"CMAKE_BINARY_DIR" : "/home/captn/NotepadNext/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/captn/NotepadNext/build/thirdparty/lua",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/captn/NotepadNext/thirdparty/lua",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/captn/NotepadNext/thirdparty/lua/CMakeLists.txt",
+		"/home/captn/NotepadNext/build/CMakeFiles/4.4.3/CMakeCCompiler.cmake",
+		"/usr/share/cmake/Modules/CMakeCInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU-C.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake",
+		"/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake",
+		"/usr/share/cmake/Modules/Linker/GNU-C.cmake",
+		"/usr/share/cmake/Modules/Linker/GNU.cmake",
+		"/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake",
+		"/usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/captn/NotepadNext",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/captn/NotepadNext/build/thirdparty/lua/lua_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "lua_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lapi.h",
+			"MU",
+			"UVLADIE3JM/moc_lapi.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lauxlib.h",
+			"MU",
+			"UVLADIE3JM/moc_lauxlib.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lcode.h",
+			"MU",
+			"UVLADIE3JM/moc_lcode.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lctype.h",
+			"MU",
+			"UVLADIE3JM/moc_lctype.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/ldebug.h",
+			"MU",
+			"UVLADIE3JM/moc_ldebug.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/ldo.h",
+			"MU",
+			"UVLADIE3JM/moc_ldo.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lfunc.h",
+			"MU",
+			"UVLADIE3JM/moc_lfunc.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lgc.h",
+			"MU",
+			"UVLADIE3JM/moc_lgc.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/llex.h",
+			"MU",
+			"UVLADIE3JM/moc_llex.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/llimits.h",
+			"MU",
+			"UVLADIE3JM/moc_llimits.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lmem.h",
+			"MU",
+			"UVLADIE3JM/moc_lmem.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lobject.h",
+			"MU",
+			"UVLADIE3JM/moc_lobject.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lopcodes.h",
+			"MU",
+			"UVLADIE3JM/moc_lopcodes.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lparser.h",
+			"MU",
+			"UVLADIE3JM/moc_lparser.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lprefix.h",
+			"MU",
+			"UVLADIE3JM/moc_lprefix.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lstate.h",
+			"MU",
+			"UVLADIE3JM/moc_lstate.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lstring.h",
+			"MU",
+			"UVLADIE3JM/moc_lstring.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/ltable.h",
+			"MU",
+			"UVLADIE3JM/moc_ltable.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/ltm.h",
+			"MU",
+			"UVLADIE3JM/moc_ltm.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lua.h",
+			"MU",
+			"UVLADIE3JM/moc_lua.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/luaconf.h",
+			"MU",
+			"UVLADIE3JM/moc_luaconf.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lualib.h",
+			"MU",
+			"UVLADIE3JM/moc_lualib.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lundump.h",
+			"MU",
+			"UVLADIE3JM/moc_lundump.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lvm.h",
+			"MU",
+			"UVLADIE3JM/moc_lvm.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/thirdparty/lua/src/lzio.h",
+			"MU",
+			"UVLADIE3JM/moc_lzio.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/captn/NotepadNext/build/thirdparty/lua/lua_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/captn/NotepadNext/build/thirdparty/lua/lua_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "LUA_CPATH_DEFAULT=\"\"", "LUA_PATH_DEFAULT=\"\"", "SCI_OWNREGEX" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/captn/NotepadNext/thirdparty/lua/src",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-pc-linux-gnu",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/16/include",
+		"/usr/local/include",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/captn/NotepadNext/build/thirdparty/lua/lua_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/home/captn/NotepadNext/build/thirdparty/lua/CMakeFiles/lua_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "/home/captn/NotepadNext/build/thirdparty/lua/CMakeFiles/lua_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lapi.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lauxlib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lbaselib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lbitlib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lcode.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lcorolib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lctype.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ldblib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ldebug.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ldo.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ldump.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lfunc.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lgc.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/linit.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/liolib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/llex.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lmathlib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lmem.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/loadlib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lobject.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lopcodes.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/loslib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lparser.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lstate.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lstring.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lstrlib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ltable.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ltablib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/ltm.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lundump.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lutf8lib.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lvm.c", "MU", null ],
+		[ "/home/captn/NotepadNext/thirdparty/lua/src/lzio.c", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,21 @@
+thirdparty/uchardet/CMakeFiles/uchardet.dir/src/nsUniversalDetector.cpp.o: \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsUniversalDetector.cpp \
+ /usr/include/stdc-predef.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nscore.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsUniversalDetector.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsMBCSGroupProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsSJISProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsCharSetProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsCodingStateMachine.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsPkgInt.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/JpCntx.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/CharDistribution.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsUTF8Prober.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCJPProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsGB2312Prober.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCKRProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsBig5Prober.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsEUCTWProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsSBCSGroupProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsEscCharsetProber.h \
+ /home/captn/NotepadNext/thirdparty/uchardet/src/nsLatin1Prober.h

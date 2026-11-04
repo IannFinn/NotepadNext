@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQSimpleUpdater.a CMakeFiles/QSimpleUpdater.dir/QSimpleUpdater_autogen/mocs_compilation.cpp.o CMakeFiles/QSimpleUpdater.dir/src/AuthenticateDialog.cpp.o CMakeFiles/QSimpleUpdater.dir/src/Downloader.cpp.o CMakeFiles/QSimpleUpdater.dir/src/QSimpleUpdater.cpp.o CMakeFiles/QSimpleUpdater.dir/src/Updater.cpp.o CMakeFiles/QSimpleUpdater.dir/QSimpleUpdater_autogen/OICXTEDBQS/qrc_qsimpleupdater.cpp.o
+/usr/bin/ranlib libQSimpleUpdater.a

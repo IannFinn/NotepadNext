@@ -1,0 +1,3 @@
+/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/ads-populate.dir
+/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/edit_cache.dir
+/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
+# file LICENSE.rst or https://cmake.org/licensing for details.
+
+cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
+
+# If CMAKE_DISABLE_SOURCE_CHANGES is set to true and the source directory is an
+# existing directory in our source tree, calling file(MAKE_DIRECTORY) on it
+# would cause a fatal error, even though it would be a no-op.
+if(NOT EXISTS "/home/captn/NotepadNext/.cpm-cache/editorconfig_core_qt/87f1")
+  file(MAKE_DIRECTORY "/home/captn/NotepadNext/.cpm-cache/editorconfig_core_qt/87f1")
+endif()
+file(MAKE_DIRECTORY
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-build"
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix"
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/tmp"
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp"
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src"
+  "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp"
+)
+
+set(configSubDirs )
+foreach(subDir IN LISTS configSubDirs)
+    file(MAKE_DIRECTORY "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp/${subDir}")
+endforeach()
+if(cfgdir)
+  file(MAKE_DIRECTORY "/home/captn/NotepadNext/build/_deps/editorconfig_core_qt-subbuild/editorconfig_core_qt-populate-prefix/src/editorconfig_core_qt-populate-stamp${cfgdir}") # cfgdir has leading slash
+endif()

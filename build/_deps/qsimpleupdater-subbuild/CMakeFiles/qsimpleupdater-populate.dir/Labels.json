@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/CMakeFiles/qsimpleupdater-populate"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/CMakeFiles/qsimpleupdater-populate.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/CMakeFiles/qsimpleupdater-populate-complete.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-build.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-configure.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-download.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-install.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-patch.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-test.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-subbuild/qsimpleupdater-populate-prefix/src/qsimpleupdater-populate-stamp/qsimpleupdater-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qsimpleupdater-populate"
+		],
+		"name" : "qsimpleupdater-populate"
+	}
+}

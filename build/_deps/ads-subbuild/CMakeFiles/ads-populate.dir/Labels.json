@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/ads-populate"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/ads-populate.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/CMakeFiles/ads-populate-complete.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-build.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-configure.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-download.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-install.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-patch.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-test.rule"
+		},
+		{
+			"file" : "/home/captn/NotepadNext/build/_deps/ads-subbuild/ads-populate-prefix/src/ads-populate-stamp/ads-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ads-populate"
+		],
+		"name" : "ads-populate"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/QSimpleUpdater_autogen",
+	"CMAKE_BINARY_DIR" : "/home/captn/NotepadNext/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/captn/NotepadNext/.cpm-cache/qsimpleupdater/37ff",
+	"CMAKE_SOURCE_DIR" : "/home/captn/NotepadNext",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/QSimpleUpdater_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/captn/NotepadNext/.cpm-cache/qsimpleupdater/37ff/etc/resources/update.png"
+	],
+	"LOCK_FILE" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/CMakeFiles/QSimpleUpdater_autogen.dir/AutoRcc_qsimpleupdater_OICXTEDBQS_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qsimpleupdater" ],
+	"OUTPUT_CHECKSUM" : "OICXTEDBQS",
+	"OUTPUT_NAME" : "qrc_qsimpleupdater.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/captn/NotepadNext/build/_deps/qsimpleupdater-build/CMakeFiles/QSimpleUpdater_autogen.dir/AutoRcc_qsimpleupdater_OICXTEDBQS_Used.txt",
+	"SOURCE" : "/home/captn/NotepadNext/.cpm-cache/qsimpleupdater/37ff/etc/resources/qsimpleupdater.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

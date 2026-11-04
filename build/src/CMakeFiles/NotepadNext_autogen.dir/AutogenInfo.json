@@ -1,0 +1,866 @@
+{
+	"BUILD_DIR" : "/home/captn/NotepadNext/build/src/NotepadNext_autogen",
+	"CMAKE_BINARY_DIR" : "/home/captn/NotepadNext/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/captn/NotepadNext/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/captn/NotepadNext/src",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/captn/NotepadNext/src/CMakeLists.txt",
+		"/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeIncludeGuardHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"/usr/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6/QtFeature.cmake",
+		"/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicJsonHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomExternalReferenceHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsTargets.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsTargets-relwithdebinfo.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsAdditionalTargetInfo.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsVersionlessTargets.cmake",
+		"/usr/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/home/captn/NotepadNext/src/resources.qrc",
+		"/home/captn/NotepadNext/src/scripts.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/captn/NotepadNext",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/captn/NotepadNext/build/src/NotepadNext_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "NotepadNext_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/captn/NotepadNext/src/ActionUtils.h",
+			"MU",
+			"EWIEGA46WW/moc_ActionUtils.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ApplicationSettings.h",
+			"MU",
+			"EWIEGA46WW/moc_ApplicationSettings.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ByteArrayUtils.h",
+			"MU",
+			"EWIEGA46WW/moc_ByteArrayUtils.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ColorPickerDelegate.h",
+			"MU",
+			"EWIEGA46WW/moc_ColorPickerDelegate.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ComboBoxDelegate.h",
+			"MU",
+			"EWIEGA46WW/moc_ComboBoxDelegate.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/Converter.h",
+			"MU",
+			"EWIEGA46WW/moc_Converter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/DebugManager.h",
+			"MU",
+			"EWIEGA46WW/moc_DebugManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/DefaultDirectoryManager.h",
+			"MU",
+			"EWIEGA46WW/moc_DefaultDirectoryManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/DockedEditor.h",
+			"MU",
+			"EWIEGA46WW/moc_DockedEditor.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/DockedEditorTitleBar.h",
+			"MU",
+			"EWIEGA46WW/moc_DockedEditorTitleBar.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/EditorManager.h",
+			"MU",
+			"EWIEGA46WW/moc_EditorManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/EditorPrintPreviewRenderer.h",
+			"MU",
+			"EWIEGA46WW/moc_EditorPrintPreviewRenderer.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/FileDialogHelpers.h",
+			"MU",
+			"EWIEGA46WW/moc_FileDialogHelpers.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/Finder.h",
+			"MU",
+			"EWIEGA46WW/moc_Finder.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/FocusWatcher.h",
+			"MU",
+			"EWIEGA46WW/moc_FocusWatcher.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/HtmlConverter.h",
+			"MU",
+			"EWIEGA46WW/moc_HtmlConverter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/IFaceTable.h",
+			"MU",
+			"EWIEGA46WW/moc_IFaceTable.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/IFaceTableMixer.h",
+			"MU",
+			"EWIEGA46WW/moc_IFaceTableMixer.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ISearchResultsHandler.h",
+			"MU",
+			"EWIEGA46WW/moc_ISearchResultsHandler.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/LanguageStylesModel.h",
+			"MU",
+			"EWIEGA46WW/moc_LanguageStylesModel.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/LuaExtension.h",
+			"MU",
+			"EWIEGA46WW/moc_LuaExtension.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/LuaState.h",
+			"MU",
+			"EWIEGA46WW/moc_LuaState.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/Macro.h",
+			"MU",
+			"EWIEGA46WW/moc_Macro.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/MacroListModel.h",
+			"MU",
+			"EWIEGA46WW/moc_MacroListModel.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/MacroManager.h",
+			"MU",
+			"EWIEGA46WW/moc_MacroManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/MacroRecorder.h",
+			"MU",
+			"EWIEGA46WW/moc_MacroRecorder.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/MacroStep.h",
+			"MU",
+			"EWIEGA46WW/moc_MacroStep.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/MacroStepTableModel.h",
+			"MU",
+			"EWIEGA46WW/moc_MacroStepTableModel.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/NotepadNextApplication.h",
+			"MU",
+			"EWIEGA46WW/moc_NotepadNextApplication.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/NppImporter.h",
+			"MU",
+			"EWIEGA46WW/moc_NppImporter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/QRegexSearch.h",
+			"MU",
+			"EWIEGA46WW/moc_QRegexSearch.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/RangeAllocator.h",
+			"MU",
+			"EWIEGA46WW/moc_RangeAllocator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/RecentFilesListManager.h",
+			"MU",
+			"EWIEGA46WW/moc_RecentFilesListManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/RecentFilesListMenuBuilder.h",
+			"MU",
+			"EWIEGA46WW/moc_RecentFilesListMenuBuilder.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/RtfConverter.h",
+			"MU",
+			"EWIEGA46WW/moc_RtfConverter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SciIFaceTable.h",
+			"MU",
+			"EWIEGA46WW/moc_SciIFaceTable.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ScintillaCommenter.h",
+			"MU",
+			"EWIEGA46WW/moc_ScintillaCommenter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ScintillaEnums.h",
+			"MU",
+			"EWIEGA46WW/moc_ScintillaEnums.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ScintillaNext.h",
+			"MU",
+			"EWIEGA46WW/moc_ScintillaNext.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ScintillaSorter.h",
+			"MU",
+			"EWIEGA46WW/moc_ScintillaSorter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SearchResultData.h",
+			"MU",
+			"EWIEGA46WW/moc_SearchResultData.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SearchResultHighlighterDelegate.h",
+			"MU",
+			"EWIEGA46WW/moc_SearchResultHighlighterDelegate.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SearchResultsCollector.h",
+			"MU",
+			"EWIEGA46WW/moc_SearchResultsCollector.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SelectionTracker.h",
+			"MU",
+			"EWIEGA46WW/moc_SelectionTracker.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SessionManager.h",
+			"MU",
+			"EWIEGA46WW/moc_SessionManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/Sorter.h",
+			"MU",
+			"EWIEGA46WW/moc_Sorter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/SpinBoxDelegate.h",
+			"MU",
+			"EWIEGA46WW/moc_SpinBoxDelegate.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/TranslationManager.h",
+			"MU",
+			"EWIEGA46WW/moc_TranslationManager.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/UndoAction.h",
+			"MU",
+			"EWIEGA46WW/moc_UndoAction.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/ZoomEventWatcher.h",
+			"MU",
+			"EWIEGA46WW/moc_ZoomEventWatcher.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/ApplicationDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_ApplicationDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/AutoCompletion.h",
+			"MU",
+			"X5PE2QRELF/moc_AutoCompletion.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/AutoIndentation.h",
+			"MU",
+			"X5PE2QRELF/moc_AutoIndentation.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/BetterMultiSelection.h",
+			"MU",
+			"X5PE2QRELF/moc_BetterMultiSelection.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/BookMarkDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_BookMarkDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/BraceMatch.h",
+			"MU",
+			"X5PE2QRELF/moc_BraceMatch.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/EditorConfigAppDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_EditorConfigAppDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/EditorDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_EditorDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/HTMLAutoCompleteDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_HTMLAutoCompleteDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/HighlightedScrollBar.h",
+			"MU",
+			"X5PE2QRELF/moc_HighlightedScrollBar.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/LineNumbers.h",
+			"MU",
+			"X5PE2QRELF/moc_LineNumbers.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/MarkerAppDecorator.h",
+			"MU",
+			"X5PE2QRELF/moc_MarkerAppDecorator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/SmartHighlighter.h",
+			"MU",
+			"X5PE2QRELF/moc_SmartHighlighter.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/SurroundSelection.h",
+			"MU",
+			"X5PE2QRELF/moc_SurroundSelection.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/URLFinder.h",
+			"MU",
+			"X5PE2QRELF/moc_URLFinder.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/ColumnEditorDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_ColumnEditorDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/FindReplaceDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_FindReplaceDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/MacroEditorDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_MacroEditorDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/MacroRunDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_MacroRunDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/MacroSaveDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_MacroSaveDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/MainWindow.h",
+			"MU",
+			"2NRMJ5X7RK/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/PreferencesDialog.h",
+			"MU",
+			"2NRMJ5X7RK/moc_PreferencesDialog.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/DebugLogDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_DebugLogDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/EditorInspectorDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_EditorInspectorDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/FileListDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_FileListDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/FolderAsWorkspaceDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_FolderAsWorkspaceDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/LanguageInspectorDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_LanguageInspectorDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/LuaConsoleDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_LuaConsoleDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/SearchResultsDock.h",
+			"MU",
+			"SVAOMNV2MZ/moc_SearchResultsDock.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/widgets/EditorInfoStatusBar.h",
+			"MU",
+			"IMAN36LHMA/moc_EditorInfoStatusBar.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/widgets/FadingIndicator.h",
+			"MU",
+			"IMAN36LHMA/moc_FadingIndicator.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/widgets/QuickFindWidget.h",
+			"MU",
+			"IMAN36LHMA/moc_QuickFindWidget.cpp",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/widgets/StatusLabel.h",
+			"MU",
+			"IMAN36LHMA/moc_StatusLabel.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/captn/NotepadNext/build/src/NotepadNext_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/captn/NotepadNext/build/src/NotepadNext_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ADS_STATIC",
+		"APP_COPYRIGHT=\"Copyright 2019-2026 Justin Dailey\"",
+		"APP_DISTRIBUTION=\"\"",
+		"APP_VERSION=\"0.14\"",
+		"EXPORT_IMPORT_API=",
+		"LUA_CPATH_DEFAULT=\"\"",
+		"LUA_PATH_DEFAULT=\"\"",
+		"MAKING_LIBRARY=1",
+		"QAPPLICATION_CLASS=QApplication",
+		"QSIMPLEUPDATER_STATIC",
+		"QSU_INCLUDE_MOC",
+		"QT_CORE5COMPAT_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_PRINTSUPPORT_LIB",
+		"QT_WIDGETS_LIB",
+		"SCINTILLA_QT=1",
+		"SCI_LEXER=1",
+		"SCI_OWNREGEX",
+		"_CRT_SECURE_NO_DEPRECATE=1"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/captn/NotepadNext/src/decorators",
+		"/home/captn/NotepadNext/src/dialogs",
+		"/home/captn/NotepadNext/src/docks",
+		"/home/captn/NotepadNext/src/widgets",
+		"/home/captn/NotepadNext/src",
+		"/home/captn/NotepadNext/.cpm-cache/ads/9c5e/src",
+		"/home/captn/NotepadNext/.cpm-cache/qsimpleupdater/37ff/include",
+		"/home/captn/NotepadNext/.cpm-cache/singleapplication/91c3",
+		"/home/captn/NotepadNext/.cpm-cache/editorconfig_core_qt/87f1",
+		"/home/captn/NotepadNext/thirdparty/lua/src",
+		"/home/captn/NotepadNext/thirdparty/lexilla/include",
+		"/home/captn/NotepadNext/thirdparty/lexilla/access",
+		"/home/captn/NotepadNext/thirdparty/lexilla/lexlib",
+		"/home/captn/NotepadNext/thirdparty/scintilla/qt/ScintillaEditBase",
+		"/home/captn/NotepadNext/thirdparty/scintilla/qt/ScintillaEdit",
+		"/home/captn/NotepadNext/thirdparty/scintilla/include",
+		"/home/captn/NotepadNext/thirdparty/scintilla/src",
+		"/home/captn/NotepadNext/thirdparty/uchardet/src",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/qt6/QtPrintSupport",
+		"/usr/include/qt6/QtCore5Compat",
+		"/usr/include",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-pc-linux-gnu",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/16/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/captn/NotepadNext/build/src/NotepadNext_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/captn/NotepadNext/build/.qt/rcc/qrc_NotepadNext_translations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/home/captn/NotepadNext/build/src/CMakeFiles/NotepadNext_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "/home/captn/NotepadNext/build/src/CMakeFiles/NotepadNext_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/captn/NotepadNext/src/ApplicationSettings.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ColorPickerDelegate.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ComboBoxDelegate.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/Converter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/DebugManager.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/DefaultDirectoryManager.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/DockedEditor.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/EditorManager.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/EditorPrintPreviewRenderer.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/FileDialogHelpers.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/Finder.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/HtmlConverter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/IFaceTable.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/IFaceTableMixer.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/LanguageStylesModel.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/LuaExtension.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/LuaState.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/Macro.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/MacroListModel.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/MacroManager.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/MacroRecorder.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/MacroStep.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/MacroStepTableModel.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/NotepadNextApplication.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/NppImporter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/QRegexSearch.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/RangeAllocator.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/RecentFilesListManager.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/RecentFilesListMenuBuilder.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/RtfConverter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/SciIFaceTable.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ScintillaCommenter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ScintillaNext.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ScintillaSorter.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/SearchResultHighlighterDelegate.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/SearchResultsCollector.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/SelectionTracker.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/SessionManager.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/Sorter.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/SpinBoxDelegate.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/TranslationManager.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/UndoAction.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/ZoomEventWatcher.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/decorators/ApplicationDecorator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/AutoCompletion.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/AutoIndentation.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/BetterMultiSelection.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/BookMarkDecorator.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/decorators/BraceMatch.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/decorators/EditorConfigAppDecorator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/EditorDecorator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/HTMLAutoCompleteDecorator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/HighlightedScrollBar.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/decorators/LineNumbers.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/decorators/MarkerAppDecorator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/SmartHighlighter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/decorators/SurroundSelection.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/decorators/URLFinder.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/dialogs/ColumnEditorDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/FindReplaceDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/dialogs/MacroEditorDialog.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/dialogs/MacroRunDialog.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/dialogs/MacroSaveDialog.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/dialogs/MainWindow.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/dialogs/PreferencesDialog.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/docks/DebugLogDock.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/docks/EditorInspectorDock.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/docks/FileListDock.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/docks/FolderAsWorkspaceDock.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/captn/NotepadNext/src/docks/LanguageInspectorDock.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/docks/LuaConsoleDock.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/docks/SearchResultsDock.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/main.cpp", "MU", null ],
+		[
+			"/home/captn/NotepadNext/src/widgets/EditorInfoStatusBar.cpp",
+			"MU",
+			null
+		],
+		[ "/home/captn/NotepadNext/src/widgets/FadingIndicator.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/widgets/QuickFindWidget.cpp", "MU", null ],
+		[ "/home/captn/NotepadNext/src/widgets/StatusLabel.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/captn/NotepadNext/build/.qt/rcc/qrc_NotepadNext_translations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
